@@ -44,7 +44,7 @@ h2 {
     color: #c19e74;
   }
 }
-/* ----------- Monitors larger than 375px wide ----------- */
+/* ----------- Monitors smaller than 768px wide ----------- */
 @media only screen and (max-width: 768px) {
  h1 {
    color: #7b7d70;
